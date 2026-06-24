@@ -1,0 +1,7 @@
+selenium
+pandas
+openpyxl
+konlpy
+jpype1
+wordcloud
+torch

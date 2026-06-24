@@ -1,0 +1,28 @@
+# python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+.env
+
+# PyCharm
+.idea/
+
+# Dataset
+*.csv
+*.xlsx
+*.json
+
+# Model
+*.pth
+*.pt
+*.h5
+*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
